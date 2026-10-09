@@ -1,0 +1,14 @@
+patients: 300
+readings: 3600
+mean_sbp: 130.61 mmHg
+sd_sbp: 14.85 mmHg
+min_sbp: 88 mmHg
+max_sbp: 180 mmHg
+stage2_patients: 79
+highest_patient: P0131
+highest_patient_mean: 168.33 mmHg
+peak_hour_column: sbp_h04
+peak_hour_mean: 137.96 mmHg
+high_monitor: M04
+monitor_offset: 7.65 mmHg
+stage2_other_monitors: 60
